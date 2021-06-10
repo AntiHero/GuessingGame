@@ -1,5 +1,6 @@
 ### To run a project use:
 
 ```
-cargo run
+$ cargo build
+$ cargo run
 ```
